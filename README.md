@@ -2,7 +2,7 @@
 
 A simple Windows utility that adds an **"Add Shortcut To Start Menu"** option to the right-click context menu of any `.exe` file.
 
-This tool is designed for portable applications or standalone executables that don't have their own installer. Unlike the native Windows **"Pin to Start"** feature—which forces the shortcut to use the original filename—this tool allows you to **set a custom name** immediately during creation.
+This tool is designed for portable applications or standalone executables that don't have their own installer. Unlike the native Windows **"Pin to Start"** feature (which forces the shortcut to use the original filename) this tool allows you to **set a custom name** immediately during creation.
 
 ![Right Click Context Menu Example](https://i.ibb.co/tTrdVQFS/explorer-Mgs-BXBo-TWw.png)
 
